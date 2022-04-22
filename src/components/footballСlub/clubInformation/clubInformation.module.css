@@ -1,0 +1,18 @@
+.clubInformation{
+display: inline-flex;
+align-items: center;
+
+}
+
+.info{
+   margin: 20px;
+}
+
+span{
+   font-weight: bold;
+}
+
+img{
+   width: 200px;
+   margin: 20px;
+}

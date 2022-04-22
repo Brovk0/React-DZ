@@ -1,0 +1,9 @@
+.footballClub {
+   display      : inline-flex;
+   border       : green solid 2px;
+   border-radius: 20px;
+   box-shadow   : 5px 8px 8px 0px #474747;
+   margin       : 20px;
+   align-items  : center;
+   max-width: 1000px;
+}

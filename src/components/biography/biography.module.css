@@ -1,0 +1,9 @@
+.biography{
+display: inline-flex;
+max-width: 1000px;
+border: black solid 2px;
+border-radius: 20px;
+box-shadow: 5px 8px 8px 0px #474747;
+margin: 20px;
+align-items: center;
+}

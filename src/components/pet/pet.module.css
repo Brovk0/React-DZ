@@ -1,0 +1,15 @@
+.pets {
+   display: inline-block;
+   border : red solid 2px;
+   padding: 20px;
+   margin       : 20px;
+   max-width: 1000px;
+   border-radius: 20px;
+   box-shadow   : 5px 8px 8px 0px #474747;
+   align-items  : center;
+}
+
+.pet {
+   display: flex;
+}
+
